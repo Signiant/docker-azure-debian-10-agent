@@ -1,1 +1,1 @@
-# docker-azure-debian-10-agent
+# docker-azure-debian-buster-agent
